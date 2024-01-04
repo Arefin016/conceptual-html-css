@@ -28,10 +28,6 @@
     margin-top: 60px;
     margin-bottom: 60px; */
     margin: 60px auto;
-    border-width: 15px;
-    border-color: yellow;
-    border-style: solid;
-    background-color: rgb(154, 226, 226);
     padding: 60px;
 }
 .article h2{
@@ -56,5 +52,5 @@
     background-color: yellow;
     display: inline-block;
     width: 600px;
-    
+
 }
