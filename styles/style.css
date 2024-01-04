@@ -30,7 +30,7 @@
     margin: 60px auto;
     padding: 60px;
 }
-.article h2{
+.article h2,#cow-type h2{
     text-align: center;
     font-size: 48px;
     border-color: yellow;
@@ -53,4 +53,7 @@
     display: inline-block;
     width: 600px;
 
+}
+.cow-images{
+    display: flex;
 }
